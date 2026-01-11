@@ -12,3 +12,8 @@ class Solution:
     def solve(self, args):
         # Your code here
         pass
+
+if __name__ == "__main__":
+    
+    #creating an instance of the class 
+    sol = Solution()
